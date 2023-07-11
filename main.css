@@ -1,0 +1,55 @@
+body {
+    color: rgba(0,255,127);
+    background-color: rgba(28,28,28);
+    font-family: monospace;
+    padding: 0px 24px;
+}
+
+.title {
+    font-size: 48px;
+}
+
+.list-item {
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+input {
+    height: 30px;
+    background-color: transparent;
+    color: whitesmoke;
+    border-radius: 4px;
+    font-size: 18px;
+    padding: 8px;
+    font-family: monospace;
+    border-color: rgba(0,255,127)
+}
+
+.add_task_button {
+    height: 30px;
+    font-size: 16px;
+    padding: 5px;
+    background-color: rgba(34,139,34);
+    border-color: rgba(0,255,0);
+    border-radius: 4px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.Limpar_Tarefas {
+    height: 30px;
+    font-size: 16px;
+    padding: 5px;
+    background-color: rgba(34,139,34);
+    border-color: rgba(0,255,0);
+    border-radius: 4px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: monospace;
+}
